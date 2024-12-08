@@ -1,6 +1,5 @@
 #include <Geekble_MotorOrgel.h>
-
-Geekble_Note2Freq Sing;
+Geekble_MotorOrgel Sing;
 
 int IN1 = 6;
 int IN2 = 7;

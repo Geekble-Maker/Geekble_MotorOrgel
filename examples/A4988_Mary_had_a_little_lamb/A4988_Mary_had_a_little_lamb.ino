@@ -1,13 +1,13 @@
 #include <Geekble_MotorOrgel.h>
 
-Geekble_Note2Freq Sing;
+Geekble_MotorOrgel Sing;
 
 #define enPin 3
 #define stepPin 4
 #define dirPin 5
 
-unsigned long prevStepMicros;
-const bool motorDirection;
+unsigned long prevStepMicros = 0;
+const bool motorDirection = 0;
 
 void setup() 
 {
