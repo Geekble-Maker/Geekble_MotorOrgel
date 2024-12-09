@@ -40,8 +40,8 @@
 #define _dottedeighth 0.75
 #define _quaver 0.5
 #define _eighth 0.5
-#define _dottedsemiquaver 12
-#define _dottedsixteenth 12
+#define _dottedsemiquaver 0.12
+#define _dottedsixteenth 0.12
 #define _semiquaver 0.25
 #define _sixteenth 0.25
 #define _dotteddemisemiquaver 0.1875
@@ -139,7 +139,7 @@
 #define n_Bb4 466.16
 #define n_B4 493.88
 #define n_C5 523.25
-#define n_Gs5 554.37
+#define n_Cs5 554.37
 #define n_Db5 554.37
 #define n_D5 587.33
 #define n_Ds5 622.25
